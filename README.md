@@ -76,6 +76,6 @@ Want to help? Message me or open a Pull Request.
 
 ⭐ Credits
 
-Built with ❤️ by Hydrix
-Powered by Ollama
+Built with ❤️ by Hydrix //
+Powered by Ollama //
 UI & Target by ox_lib / ox_target
