@@ -79,3 +79,4 @@ Want to help? Message me or open a Pull Request.
 Built with ❤️ by Hydrix //
 Powered by Ollama //
 UI & Target by ox_lib / ox_target
+SHOUTOUT MATO FOR THE ORIGINAL SCRIPT INSPIRATION
